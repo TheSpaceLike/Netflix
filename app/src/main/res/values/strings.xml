@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCopiaNetflix</string>
+    <string name="welcome">Welcome to The MyNetflixCopy</string>
+|   <string name="GET_MY_IN">Get MY IN!</string>
+    <string name="conditions">Welcome to Popcorn Factory, home of the best series and movies. Just lay down, make some popcorn and enjoy!</string>
+    <string name="sign_in">Sign in</string>
+</resources>
